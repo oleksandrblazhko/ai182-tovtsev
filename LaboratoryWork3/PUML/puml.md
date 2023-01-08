@@ -1,1 +1,1 @@
-![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai182-tovtsev/laboratory-work-%E2%84%963/LaboratoryWork3/puml.puml)
+![](http://www.plantuml.com/plantuml/png/RP6n2eCm48RtFCMFko_GeTZgMbfmb0v1ZnBGn2QdI-cxrs3WAcHBkE_x_nof0clFopGgDZmIQZVDpfBbW58kQ8n-UJqf1LWt48g6LjDJWOy2kdeq6_JSZjz89AGblv9FIADPNtMW27Nx19TvtXr09UVUuk5TJo4axwQDFO1IXx8y_m4umTDxeS3g84PCd0Y5k5GEIk_AfCaaKok9icSsKS1CefXINP4Tjh_v0G00)
