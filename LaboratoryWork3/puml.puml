@@ -2,8 +2,6 @@
 
 title Components - Component Diagram
 
-
-  
   node "Device" {
   [Client]
   }
